@@ -1,0 +1,3 @@
+let datos = {
+  "foto":"aa"
+}

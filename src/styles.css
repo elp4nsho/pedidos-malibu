@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+html, div, body{
+  background: #a33de0 !important;
+}
+small{
+  color: aqua !important;
+}
+*{
+  font-family: "Comic Sans MS";
+}
